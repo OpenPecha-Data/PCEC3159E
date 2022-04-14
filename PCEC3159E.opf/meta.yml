@@ -1,0 +1,105 @@
+id: PCEC3159E
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13299
+  instance_id: http://purl.bdrc.io/resource/IE3JT13299
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - འབྲི་ཁུང་པ་ཁུ་དབོན་གསུམ་གྱི་རྣམ་ཐར་དང་དགོངས་གཅིག་གི་སྐོར།
+  alt_title:
+    bo:
+    - རྒྱལ་བ་འབྲི་ཁུང་པ་ཁུ་དབོན་གསུམ་གྱི་རྣམ་ཐར་དང་དགོངས་གཅིག་གི་སྐོར།
+  author: None
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    47afec9aa8764d538c9554eda09ca48a:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པ་ལས།སོ་སོ་ཐར་པའི་ཚོམས་ཀྱི་
+      volume_number: 6
+      base_file: UT3JT13299_006_0000.txt
+      reference: http://purl.bdrc.io/resource/VLFAF6696BD2B5B560
+      image_group: null
+      quality: null
+    c7e41f3415cd49cb919e9d6bdf0fd80a:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་ཀར་ཊཱིཀ་ལས།སྔགས་ཀྱི་ཚོམས་ཀྱི་
+      volume_number: 8
+      base_file: UT3JT13299_008_0000.txt
+      reference: http://purl.bdrc.io/resource/VL10FC0D1B5370C06B
+      image_group: null
+      quality: null
+    58297eb7327e4d098c56c14f34f257e5:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པ་ཀར་ཊིཀ་ལས།བདུན་པ་འབྲས་བུའི་
+      volume_number: 11
+      base_file: UT3JT13299_011_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0B0DD4655BD23CC8
+      image_group: null
+      quality: null
+    295385958cda4b47a77fd9f8b36c13eb:
+      title: ༄༅།་།དགོངས་གཅིག་ཀར་ཊཱིཀ་ལས།དུམ་བུ་ལྔ་པའི་རྣམ་བཤད་
+      volume_number: 9
+      base_file: UT3JT13299_009_0000.txt
+      reference: http://purl.bdrc.io/resource/VL711F9E625C8B6357
+      image_group: null
+      quality: null
+    2d7df54b814844c8a621ea15c3a16318:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པ་ཀར་ཊཱིཀ་ལས།དྲུག་པ་རྟེན་འབྲེལ་གྱི་
+      volume_number: 10
+      base_file: UT3JT13299_010_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCCB406DE5A8DD922
+      image_group: null
+      quality: null
+    166ca70b8bdb4744ae2dbb0c45dafa1b:
+      title: ༄༅།་།དགོངས་པ་གཅིག་པ་ལས།བྱང་སེམས་ཀྱི་ཚོམས་ཀྱི་ཟིན་བྲིས་རང་གཞན་
+      volume_number: 7
+      base_file: UT3JT13299_007_0000.txt
+      reference: http://purl.bdrc.io/resource/VL763D201565AAC673
+      image_group: null
+      quality: null
+    a283fec1291a471b8ed089aa88561d80:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པ་ཀར་ཊཱིཀ་ལས།གསུང་བཞི་བཅུ་པའི་
+      volume_number: 12
+      base_file: UT3JT13299_012_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCEE71B36174D0832
+      image_group: null
+      quality: null
+    9528b34eda834abaabf6f92d351b428a:
+      title: ༄༅།་།འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་འབྲི་གུང་པ་ཆེན་པོའི་དམ་ཆོས་དགོངས་པ་གཅིག་
+      volume_number: 3
+      base_file: UT3JT13299_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VL13C37C9FE9B94C23
+      image_group: null
+      quality: null
+    9688d39acdc8401b8788e4fe8c7c65c3:
+      title: ༄༅།་།ཆོས་དང་ཆོས་མ་ཡིན་པར་རྣམ་པར་འབྱེད་པའི་གཏམ་ཆེན་པོ་ཟབ་མོར་རློམ་པའི་
+      volume_number: 2
+      base_file: UT3JT13299_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9AAF0D2C03DB1150
+      image_group: null
+      quality: null
+    6a0be893784749759dee4ba3d70d02a9:
+      title: ༄༅།་།རྒྱལ་བ་འབྲི་ཁུང་པ་ཁུ་དབོན་གསུམ་གྱི་རྣམ་པར་ཐར་པ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13299_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0A6B7B7AD823C73A
+      image_group: null
+      quality: null
+    0feef28b18c649c09d5c7509067050df:
+      title: ༄༅༅།་།དགོངས་གཅིག་ཀར་ཊཱིཀ་ལས།ཚོམས་དང་པོའི་སྨད་ཆ་བཞུགས།་།
+      volume_number: 4
+      base_file: UT3JT13299_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5590369DC98073B3
+      image_group: null
+      quality: null
+    b05b0dd3c281431eacfa82b7a150e92b:
+      title: ༄༅།་།དམ་པའི་ཆོས་དགོངས་པ་གཅིག་པའི་བཤད་པའི་གསུང་རྒྱུན་རེག་ཟིག་རྒྱལ་བ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱིས་ཞལ་ལུང་དྲི་མ་དང་བྲལ་བ་བདུད་རྩིའི་འདོ
+      volume_number: 5
+      base_file: UT3JT13299_005_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2516D01936E539B2
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-29T12:30:29.847776'
+last_modified_at: '2021-12-29T12:30:29.847784'
